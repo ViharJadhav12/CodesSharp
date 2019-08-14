@@ -57,8 +57,7 @@ namespace git
                 //         retVal = val + " Is Not Pallendrome..!";
 
 #endregion          
-                
-                
+                                
                 return retVal;
             }
     }
